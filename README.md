@@ -1,5 +1,5 @@
 
-What is cryptocurrency?
+## What is cryptocurrency?
 
 
 Cryptocurrency is a digital currency that doesn't rely on central banks or trusted third parties to verify transactions and create new currency units. Instead, it uses cryptography to confirm transactions on a publicly distributed ledger called a blockchain.
@@ -11,13 +11,13 @@ The global financial system, as a collective entity, has historically been respo
 The validity of cryptocurrency is established and maintained without any involvement by the world's central banks. Instead, ledgers of cryptocurrency transactions are publicly maintained. Transactions verified by blockchain technology are immutable, meaning they cannot be changed. That prevents hackers from producing fraudulent transaction records and establishes trust among users.
 
 
-How many cryptocurrencies are there?
+## How many cryptocurrencies are there?
 
 There are thousands of cryptocurrencies available, and thousands more that are now defunct. According to CoinMarketCap, there were 13,669 cryptocurrencies as of late 2021. New tokens are constantly coming to market.
 The reason there are so many cryptocurrencies is because it's extremely easy to create one. Ethereum's (ETH -1.42%) blockchain allows users to write bits of code to the blockchain, essentially letting anyone launch a new token that uses the Ethereum network. So instead of having to build the whole thing from scratch, developers can just use the pre-existing infrastructure.
 
 
-How cryptocurrency works
+## How cryptocurrency works
 
 To make a cryptocurrency transaction, you need a wallet for that digital currency. A cryptocurrency wallet doesn't actually hold any currency; it merely provides an address for your funds on the blockchain. A cryptocurrency wallet also includes private and public keys that enable you to complete secure transactions.
 You can buy or sell cryptocurrency using a cryptocurrency exchange. Exchanges, which can hold deposits in both fiat and cryptocurrencies, credit and debit the appropriate balances of buyers and sellers in order to complete cryptocurrency transactions. You can also use cryptocurrency to buy something such as a product or service.
@@ -26,7 +26,7 @@ The cryptocurrency network's miners access your public key to confirm that your 
 
 
 
-Why is it called a blockchain?
+## Why is it called a blockchain?
 
 A block is a collection of transaction data on a cryptocurrency network. It basically states that Person A sent this amount of the cryptocurrency to Person B, Person X received this much cryptocurrency from Person Y, and so on.
 A block includes a reference to the block that immediately precedes it. The blocks create a chain, linking one to another through references to prior blocks. To change a block in the ledger, a hacker would have to reproduce the entire chain of blocks following it since not doing so would create a chain of invalid references that would not be accepted by the cryptocurrency network.
@@ -36,12 +36,12 @@ Another method of establishing distributed consensus to add to a blockchain is k
 Stakeholders are selected semi-randomly. Additional mechanisms are in place to prevent the wealthiest individuals from creating fake transactions or otherwise exerting too much power over the blockchain.
 
 
-Why is crypto so popular?
+## Why is crypto so popular?
 
 Increasing utility. New uses for cryptocurrency and blockchain technology are developing all the time. From new decentralized finance (or DeFi) apps to blockchain games to non-fungible tokens (NFTs), the industry is constantly evolving. Additionally, more retailers and service providers are accepting cryptocurrency as payment.
 Attractive investment. The value of cryptocurrency as an asset class has skyrocketed over the past five years. In that time, it's shifted from a niche topic to receiving lots of buzz in the mainstream media. Many people see it as an attractive asset class to invest in to produce outsized returns. Futurism. Many people believe cryptocurrency is the future of money. Indeed, many businesses across various industries are developing ways to use blockchain technology to improve operations. We could still be in the very early days of cryptocurrency.
 
-Biggest cryptocurrencies
+## Biggest cryptocurrencies
 
 These are the five largest cryptocurrencies:
 1 	Bitcoin (CRYPTO:BTC) 	$1.156 trillion
@@ -58,13 +58,13 @@ Bitcoin is by far the most valuable cryptocurrency. As the original cryptocurren
 Ethereum's Ether is the second-largest cryptocurrency and consistently so. Ethereum serves as a platform for other cryptocurrencies besides Ether, and offering decentralized applications to other token creators ensures that Ether consistently retains greater value than those other tokens. Most cryptocurrencies rely on the decentralized applications provided by Ethereum.
 
 
-Best cryptocurrencies
+## Best cryptocurrencies
 
 Bitcoin and Ether stand out among all the others. Buying Bitcoin is an obvious choice for anyone interested in cryptocurrency. It's widely supported, and a well-established ecosystem of software is available to facilitate transactions.
 Ether is attractive because of the value of the Ethereum blockchain in establishing new tokens, DeFi services, NFTs, and other blockchain applications.
 Advantages and disadvantages of cryptocurrency
 
-Using cryptocurrency has several big advantages over traditional finance. They are:
+## Using cryptocurrency has several big advantages over traditional finance. They are:
 
 Speed. A cryptocurrency transaction can take as little as a few minutes to confirm. Once confirmed, the receiving party is able to spend the funds however they see fit. In traditional finance, it takes at least a day for a transfer to clear.
 Lower fees. In many cases, the cost of using cryptocurrency is substantially lower than using traditional financial institutions. There's no fee for storing cryptocurrency, for example, whereas many banks charge a monthly fee. The cost to send money to someone internationally is extremely low compared to traditional international remittance services.
@@ -80,7 +80,7 @@ Easy to lose access to funds. If you lose your private key, you no longer have a
 High volatility. The values of many cryptocurrencies are extremely volatile. This can make it difficult to use as a means of paying for goods and services since retail prices would need to fluctuate to adjust for the volatility of the currency. It can also make it difficult to stomach as an investor when the price can easily swing more than 10% any given day.
 
 
-How to mine cryptocurrency
+## How to mine cryptocurrency
 
 Mining cryptocurrency is the process of using your computing power to verify transactions on the blockchain. When you verify a block, you receive a reward and collect some fees from the transacting parties. In order to get started mining cryptocurrency, you'll need to have a computer you can dedicate to the process. You'll need a computer with energy-efficient processors in order to make sure you don't spend more on electricity than you earn from mining.
 There are really only two viable processor options to mine most cryptocurrencies: GPUs or ASICs. A GPU is a graphics processing unit typically found in gaming PCs or high-end PCs used for graphics rendering. ASIC stands for application-specific integrated circuit. It's a chip designed specifically for one task -- mining a certain cryptocurrency. The advantage of ASICs is that they're far more efficient. The disadvantage is that they're much less flexible at what you can mine using them, and they're more expensive than GPUs.
@@ -88,7 +88,7 @@ Once you have the hardware, it's just a matter of setting up a cryptocurrency wa
 Once everything is set up, it's a pretty hands-off process. However, you need to keep an eye on the cryptocurrencies you mine. A sharp drop in price could make the operation unprofitable.
 
 
-Are cryptocurrencies a good investment?
+## Are cryptocurrencies a good investment?
 
 Cryptocurrencies are not simply "good" or "bad" as investments. Cryptocurrencies may fit well in a diversified portfolio of assets, but putting most or all of your money in an asset class as volatile as cryptocurrency is unlikely to serve your portfolio well. The newness of cryptocurrencies makes their risks not easily understood, which translates into a poor understanding of how cryptocurrency values correlate with the values of other assets. Not enough historical data exists to confidently predict how the prices of cryptocurrencies fluctuate when the prices of other assets change. This lack of visibility creates an obstacle to establishing a balanced portfolio that maximizes returns without exceeding your desired level of risk.
 Lack of historical data notwithstanding, many investors -- including institutional investors, banks, and company CEOs -- assert that cryptocurrency should be part of everyone's portfolio. Understanding what cryptocurrency is, how it works, and what value it can provide over fiat currency is an important first step before investing money in cryptocurrency.
